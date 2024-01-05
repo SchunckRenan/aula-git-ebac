@@ -1,11 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Renan
+-Profissão: Operador de produção
+-Cidade: Viana do Castelo
+-O que faz nas horas vagas: Levo o cão para passear, ouço música e jogo videogame.
+-Feedback sobre o curso Qualidade de Software: Estou a gostar do conteúdo do curso por ele abordar as diversas áreas pelas quais vamos precisar ter conhecimento para executar o trabalho.
+Algo que poderia ser revisado é a forma como algumas das tarefas são propostas. Talvez uma mudança na escrita  ou uma atualização de requisitos, já que em alguns módulos o conteúdo teve atualização e a tarefa parece seguir o conteúdo antigo.
+-Feedback sobre a plataforma de estudo da EBAC: Gosto da plataforma por ela ser simples e intuitiva. Todas as features que precisamos enquano estamos em aula estão disponíveis em um ambiente bastante amigável ao utilizador.
 
 Obrigado!!!
 
